@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/gauravpatidar"><img src="https://img.shields.io/badge/LinkedIn-gauravpatidar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/rogavv"><img src="https://img.shields.io/badge/Kaggle-rogavv-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://instagram.com/go7av"><img src="https://img.shields.io/badge/Instagram-go7av-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://codeforces.com/profile/07gaurav"><img src="https://img.shields.io/badge/Codeforces-gaurav07-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/07gaurav"><img src="https://img.shields.io/badge/Codeforces-07gaurav-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
 
 ---
