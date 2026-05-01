@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7902&" alt="gaurav7902" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav7902&show_icons=true&locale=en&layout=compact" alt="gaurav7902 top languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7902&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="gaurav7902 top languages" /> -->
 </p>
 
 ---
