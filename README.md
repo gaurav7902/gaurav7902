@@ -7,11 +7,8 @@
 </p>
 
 ## About Me
-
-- I enjoy building things for the **web** and learning how **systems work**.
-- Currently focused on **full-stack development** and **problem solving**.
 - Interested in **open source contributions** and learning from real projects.
-- Always exploring, improving, and turning ideas into **small projects**.
+- Turning ideas into **projects**.
 
 ## Languages And Tools
 
