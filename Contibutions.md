@@ -14,6 +14,7 @@
 ## 🧪 Testing & Verification
 
 * **packet** – Testing and feedback: https://github.com/nozwock/packet/pull/133#issuecomment-4270869043
+* **bundlephobia** – Resolved bug cause: https://github.com/pastelsky/bundlephobia/issues/997#issuecomment-4843088358
 
 ## 🐛 Issues Reported
 
