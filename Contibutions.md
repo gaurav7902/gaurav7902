@@ -10,6 +10,7 @@
 ## 💬 Community Mentions
 
 * **super-productivity Discussion** – https://github.com/super-productivity/super-productivity/discussions/7908
+* **opensource.guide Discussion** – https://github.com/github/github-ospo/discussions/210
 
 ## 🧪 Testing & Verification
 
