@@ -6,6 +6,7 @@
 * **github/opensource.guide** – https://github.com/github/opensource.guide/pull/3682
 * **cpos** – https://github.com/Soham109/cpos/pull/5
 * **101-linux-commands** – https://github.com/bobbyiliev/101-linux-commands/pull/5
+* **Claude Skills** – https://github.com/alirezarezvani/claude-skills/pull/889#event-27590502118
 
 ## 💬 Community Mentions
 
